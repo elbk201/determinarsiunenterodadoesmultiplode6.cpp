@@ -1,0 +1,1 @@
+# determinarsiunenterodadoesmultiplode6.cpp
